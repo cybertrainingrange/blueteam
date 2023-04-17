@@ -23,8 +23,8 @@ Overall, a firewall is an essential tool for any organization that wants to safe
 [Documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
 
 ## Agile Framework
-- [Jira Schedule 1](https://drive.google.com/uc?export=view&id=1M-56z5erSeMbxmmzbWNsmvtUbGbM3iGE)
-- [Jira Schedule 2](https://drive.google.com/uc?export=view&id=1Lm-9uHRS3nqcfibdQggffWCqp3utVoRr)
+- [Jira Schedule 1](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1)
+- [Jira Schedule 2](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1/backlog)
 
 ## Team Members
 - Alena [@alena](https://www.github.com/)

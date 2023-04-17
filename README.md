@@ -22,6 +22,10 @@ Overall, a firewall is an essential tool for any organization that wants to safe
 
 [Documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
 
+## Presentation
+
+[Powerpoint](https://docs.google.com/presentation/d/18yNWwQrvfefQZUqEECINo0JeCdLnlWzv/edit#slide=id.p1)
+
 ## Agile Framework
 - [Jira Schedule 1](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1)
 - [Jira Schedule 2](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1/backlog)

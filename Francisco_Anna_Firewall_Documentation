@@ -17,6 +17,9 @@ In addition, a firewall can also help you control and manage network access for 
 A firewall can also provide you with valuable insights into your network traffic and activity. By monitoring network traffic and generating logs, you can identify potential threats, track network usage patterns, and troubleshoot network issues.
 Overall, a firewall is an essential tool for any organization that wants to safeguard its network, data, and reputation from cyber threats. It can help you maintain compliance with industry standards and regulations, protect your customers' sensitive information, and prevent costly security breaches.
  
+[Firewall](https://kratikal.com/blog/sophisticated-cyber-attacks/)
+
+
 Open Source Software 
 
 (https://www.pfsense.org/)
@@ -32,7 +35,7 @@ Its intuitive web user interface allows to create groups of hosts and networks w
 Various settings are available to mitigate and block Denial-of-Service attacks by filtering them directly at the firewall and not allowing them to take down your servers. 
 
 
-!(https://kratikal.com/blog/sophisticated-cyber-attacks/)
+
 
 
 

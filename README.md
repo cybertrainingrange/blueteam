@@ -5,7 +5,7 @@
 
 ![App Screenshot](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)
 
----SAMPLE -----What is a firewall ?  ---SAMPLE 
+---SAMPLE -----What is a firewall ?  ---SAMPLE ------
 A firewall is like a virtual security guard that helps keep your computer and network safe from bad guys.
 It works by creating a wall between your computer and the internet. This wall checks all the data that comes in and out of your computer, making sure it's safe and not harmful. If the wall sees something that looks bad, it will block it from entering or leaving your computer.
 

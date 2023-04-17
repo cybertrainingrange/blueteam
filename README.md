@@ -32,7 +32,7 @@ Overall, a firewall is an essential tool for any organization that wants to safe
 
 ## Q&A
 
-[Questions] (https://docs.google.com/document/d/1-gS53hdiN8ZxduRnXjNI_Sga3Cw74AG0mnnstBYECh4/edit)
+![Questions] (https://docs.google.com/document/d/1-gS53hdiN8ZxduRnXjNI_Sga3Cw74AG0mnnstBYECh4/edit)
 
 
 

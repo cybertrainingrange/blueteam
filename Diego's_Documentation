@@ -7,3 +7,4 @@ Authorization: determines what an identity can access within a system once it’
 Least privilege access, in AWS, refers to the practice of granting only the minimum level of permissions necessary for a user, group, or application to perform their required tasks. This ensures that access is restricted to only the resources and actions that are essential for the user to perform their job, which reduces the risk of accidental or intentional damage to the system. With IAM policies, you can specify exactly what actions a user can perform on each resource, as well as the conditions under which those actions are allowed. By following the principle of least privilege access in AWS, you can help to prevent unauthorized access to your resources, minimize the risk of data breaches, and improve the overall security of your AWS environment. 
 
 
+

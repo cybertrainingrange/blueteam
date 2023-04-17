@@ -20,7 +20,7 @@ Overall, a firewall is an essential tool for any organization that wants to safe
 
 ## Technical Documentation
 
-[Documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
+[Step by step documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
 
 ## Presentation
 

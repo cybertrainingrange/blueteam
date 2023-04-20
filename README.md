@@ -12,7 +12,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 
 2. Incident Response: When a cyber attack occurs, the blue team is responsible for responding promptly to mitigate the damage. They follow an incident response plan that outlines the steps to be taken in the event of a cyber attack, including isolating affected systems, containing the attack, and restoring normal operations.
 
-3.Forensic Analysis: After a cyber attack, the blue team conducts forensic analysis to determine the cause and extent of the damage. They analyze system logs, network traffic, and other data to identify the attacker's tactics, techniques, and procedures.
+3. Forensic Analysis: After a cyber attack, the blue team conducts forensic analysis to determine the cause and extent of the damage. They analyze system logs, network traffic, and other data to identify the attacker's tactics, techniques, and procedures.
 
 4. System Maintenance: The blue team is responsible for maintaining an organization's systems and networks to prevent cyber attacks. They ensure that software and security systems are up to date, and that vulnerabilities are addressed promptly.
 

@@ -37,6 +37,7 @@ Role and Responsibilities of the Cybersecurity Blue Team:
 14. Least Privilege Access: involves limiting users and systems to the minimum level of access required to perform their tasks, thus reducing the attack surface and the potential impact of security incidents. 
 
 15. Encryption and Data Protection: technique used to protect data from unauthorized access or theft. It involves converting the plaintext (human-readable) data into ciphertext (unreadable gibberish) using an algorithm and a secret key. Only someone with the correct key can decrypt the ciphertext and access the original plaintext.
+
 Conclusion
      Cybersecurity threats continue to evolve and become more sophisticated, making it crucial for organizations to have a robust cybersecurity framework in place. The blue team plays a critical role in protecting an organization's systems, networks, and data from cyber threats. They are responsible for a wide range of duties, including threat detection, incident response, forensic analysis, system maintenance, user education, continuous improvement, patch management, disaster recovery planning, vulnerability scanning, identity and access management (IAM), multi-factor authentication (MFA), network segmentation, log management, least privilege access, and encryption and data protection.
      
